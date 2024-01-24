@@ -2,7 +2,8 @@
 layout: page
 ---
 
-## [Go 语言学习笔记](https://zhaohuabing.com/learning-golang)
+# My research interest
 
-## [Envoy 学习笔记](https://zhaohuabing.com/learning-envoy) 
+今天吃饭的时候突然想到一个讲故事的好idea。关于我的研究，可以从physical law的角度来讲。物理学家们通常用各种物理公式来描述各种各样的物理现象，比如说我们熟知的牛顿运动定律，你知道速度和加速度，就可以精确计算出一段时间后的唯一。然而对于复杂的、数据量庞大的物理系统，我们常常无法用有限个公式来准确的刻画各个物理量之间的对应关系。而AI提供了一种新的视角，也就是用网络结构模型来代替传统的物理公式去描述物理现象，而这其中就涉及到模型的选取以及如何去理解和解释这个模型的问题，这就是我研究的主要方向AI for physics.
 
+比如说multimode fiber体系，输入的信号会因为mode mixing和mode dependent loss等等因素而变得难以辨认，显然这里很难再用公式去准确地描述，尤其是多模光纤的弯曲程度常常会发生改变。而机器学习的思路是通过一个模型来学习输入和输出信号之间的关系，从而可以通过输出信号反推出输入信号，从而实现大规模的多模光纤信号传输。类似的还有random spectrometer系统，通过机器学习我们可以将detector上的信号还原成输入的信号，相比于传统的求解方程的思路，这大大提高了random spectrometer的准确度和可工作带宽。

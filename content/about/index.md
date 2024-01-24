@@ -3,53 +3,21 @@ layout: page
 multilingual: true
 ---
 
-## About Me
-**_Huabing Zhao_** is a software architect, an Istio Member and an ONAP PTL. He has a solid experience in the information and telecommunication technology industry for more than 17 years. 
+# Master NoName
 
-Throughout his career, he has built a number of large-scale, cross-country software systems, most of them are still running in production. 
+He has no name.
 
-He loves open source and has been contributing to various open source projects, he is a member of Istio,  previous PTL of ONAP, the author of the Hugo clean-white theme and the open source project Aeraki Mesh.  
+He was a talented young kid when selected as a basketball shooting team member. He shot a 4/10 at the selection, then he got enrolled as a young shooter and began his wonderful basketball shooting life.
 
-He also has strong interests in various technical topics such as Cloud Native, Artificial Intelligence, Cryptocurrencies, Smart Home, etc. He love sharing his ideas about these things in his blog.
+He was not so good at the beginning, not so stable. His average score is 4/10, which is the lowest criteria in the team. But he shot 3/10 for two times, according to the team rule, one who shot lower than 4/10 should be punished, if he is lower for two times, he will got the final chance to shot a 4/10, if he failed for that,  dismissed. At that time, he was almost kicked out. He practiced many times, finally he managed to get 4/10 and continue his game.
 
-Huabing holds a BSc in Computer Science and Technology from Chongqing University in China. 
+Soon after that, he started to make progress. He stabilized his score above 4 and he started to prepare to become the main shooter. Since the obstacles he had been through during the past many terms, he grew up fast and break the union record at a unimaginable level, 9/10! He became famous suddenly, a main shooter of course. While breaking records brings him good reputation , his performance stuck. Sometimes even got back to 3 or 4 over 10. He tried very hard, but he remains average after he broke the record for a long time.
 
-Currently, Huabing works as a senior engineer at [Tencent Cloud](https://cloud.tencent.com/) and also wears the hat of PTL in ONAP open source project. For now, his main focus is to build a managed service mesh solution on cloud.
+He was recommended to play for the master nomination. Although his average is not good enough, given that he is the one who broke the record, he was nominated. However, he did a 5/10 in the game, failed to reach the 6/10 for master.  He was very upset, but he still kept going. He shot day and night, gradually stabilized his performance at over 5. After many terms, he finally got a second chance to play for the master. And this time he did it! His score is 7/10.
 
-While he is free, he likes writing technical blog posts, watching movies, swimming, hiking, travelling and learning languages.
+After become Master NoName, he got depressed again, once play a 4/10. 4 represent a minus in Master level, while 5 means nothing. He had to play another round at 6 or above. He played 2 time later, while remain at 5. Once he got another 5 or below, he will be depreciated as a normal shooter. But under the press, he finally managed to go back to 6/10. Not long after that, he even reached his own record at 9/10 again. Everybody so excited!!!
 
-Feel free to connect Huabing at Github and Linkedin, leave your thoughts in his blog or share your ideas by [writing him an email](mailto:zhaohuabing@zhaohuabing.com). 
+He later maintained at a level above 6 ever since, sometimes reached 7, he eventually retired because he felt himself tired and need to have a good rest and enjoy his later life.
 
-## Publications
-| Title       |Type        |Publisher   |Link        |
-| ----------- |----------- |----------- |----------- |
-|[Istio Service Mesh Advanced Practical](https://www.zhaohuabing.com/post/2021-08-26-istio-handbook/)|Book|电子工业出版社|[Buy now](https://item.jd.com/13200745.html)|
-|[Distributed Tracing with Jaeger, Kubernetes, and Istio](https://www.zhaohuabing.com/post/2021-09-08-distributed-tracing-with-jaeger-kubernetes-and-istio/)|Live Project|Manning|[30% off](https://www.manning.com/liveprojectseries/distributed-tracing-ser)|
-|[Cloud Native Data Center Networking](https://zhaohuabing.com/post/2021-08-27-cloud-native-data-center)|Translation|中国电力出版社|[Buy now](https://item.jd.com/12929975.html)|
-|[Istio Operation Bible](http://localhost:1313/post/2021-10-08-istio-operation-bible/)|ebook||[Read online](https://istio-operation-bible.aeraki.net/)|
+That is Master NoName, a basketball shooting master that should never be  forgotten.
 
-
-## Presentations (Selected)
-|Year         |City        |Conference  | Title      |Slides      |Video       |
-| ----------- |----------- |----------- |----------- |----------- |----------- |
-|2022|Virtual|[IstioCon](https://events.istio.io/istiocon-2022)|[Tencent Music’s service mesh practice with Istio and Aeraki](https://events.istio.io/istiocon-2022/sessions/tencent-music-aeraki/)|[slides](/slides/tencent-music-service-mesh-practice-with-istio-and-aeraki.pdf)|[Video](https://www.youtube.com/watch?v=6t_yPsq4Pi4)|
-|2022|Virtual|[A2M](https://a2m.msup.com.cn/course?aid=2699&cid=15382)|[全栈服务网格 - Aeraki Mesh 助你在 Istio 服务网格中管理任何七层流量](https://a2m.msup.com.cn/course?aid=2699&cid=15382)|[slides](/slides/full-stack-service-mesh-a2m-20220422.pdf)||
-|2022|Virtual|[云原生正发声](https://cloud.tencent.com/developer/salon/live-1403)| [Areaki Mesh 在 2022 冬奥会视频直播应用中的服务网格实践](https://mp.weixin.qq.com/s/zp9q99mGyH2VD9Dij2owWg) | [Slides](http://localhost:1313/img/2022-03-30-aeraki-mesh-winter-olympics-practice/slides.pdf)|[Video](https://youtu.be/uXxatQTKzW8)|
-|2021|Virtual|[IstioCon](https://events.istio.io/istiocon-2021/)| [How to manage any layer-7 traffic in an Istio service mesh?](https://events.istio.io/istiocon-2021/sessions/how-to-manage-any-layer-7-traffic-in-an-istio-service-mesh/) | [Slides](/slides/how-to-manage-any-layer-7-traffic-in-istio.pdf)|[Video](https://www.youtube.com/watch?v=sBS4utF68d8)|
-|2020|Virtual|[CNBPS](https://www.cnbpa.org/)|[Istio 流量管理原理与协议扩展](https://cloud.tencent.com/developer/article/1723804)|[Slides](/slides/cnbps2020-istio-aeraki.pdf)|[Video](https://www.youtube.com/watch?v=lB5d4qbZqzU)|
-|2019|Chengdu|[Service Mesher Meetup](https://cloudnative.to/blog/service-mesh-meetup-chengdu-20191028/)|[What Can Service Mesh Learn From SDN?](https://cloudnative.to/blog/service-mesh-meetup-chengdu-20191028/)|[Slides](/slides/what-can-service-mesh-learn-from-sdn-servicemesher-meetup-20191026.pdf)|[Video](https://youtu.be/nGkxp-2OsKg)|
-|2019|Xi'an|ONAP Workshop|Service Mesh Practice with 5G Management System|[Slides](/slides/service-mesh-practice-with-5g-management-system-lfn.pdf)|
-|2018|Nanjing|[GNTC](https://www.bagevent.com/event/1624048?aId=)|[Service Mesh in Action with ONAP](https://www.sdnlab.com/22596.html)|
-|2017|Santa Clara|[NAP Developer Forum](https://wiki.onap.org/display/DW/ONAP+Beijing+Release+Developer+Forum%2C+Dec.+11-13%2C+2017%2C+Santa+Clara%2C+CA+US)|[MSB to Support Carrier Grade ONAP Microservice Architecture with Service Mesh](https://onapbeijing2017.sched.com/event/D5q2)|[Slides](https://wiki.onap.org/display/DW/MSB+Service+Mesh+Planning?preview=%2F20873876%2F20873874%2FMSB+to+Support+Carrier+Grade+ONAP+Microservice+Architecture+with+Service+Mesh.pdf)|
-|2017|Santa Clara|[ONS](https://wiki.onap.org/display/DW/ONAP@ONS2017)|Microservice Powered Orchestration|[Slides](https://wiki.onap.org/display/DW/ONAP@ONS2017?preview=%2F3245268%2F3245309%2FMicroservice+Powered+Orchestration+Architecture.pdf)|
-|2017|New Jersey|[ONAP Developer Event](https://wiki.onap.org/display/DW/ONAP+Project+Developer+Event%3A+May+2+-+5%2C+2017%2C+Middletown%2C+NJ%2C+USA)|MSB Technical Deep Dive and ONAP Use Cases|[Slides](https://www.slideshare.net/HuabingZhao/msb-depp-dive/)|
-|2017|Paris|[ONAP Developer Event](https://wiki.onap.org/display/DW/ONAP+Developer+Event+September+25-28%2C+2017%2C+Paris-Saclay%2C+France)|[Microservice Bus Tutorial](https://wiki.onap.org/display/DW/September+26-28+Topics#September2628Topics-M2)|[Slides](https://www.slideshare.net/HuabingZhao/microservice-bus-tutorial)|
-
-## Open Source Projects
-|Project      |Role        |  Website   | GitHub     |
-| ----------- |----------- |----------- |----------- |
-| Aeraki Mesh | Creator    | https://aeraki.net  | http://github.com/aeraki-mesh |
-| Istio       | Contributor| https://istio.io    | https://github.com/istio/istio|
-| Envoy       | Contributor| https://www.envoyproxy.io |https://github.com/envoyproxy/envoy|
-| ONAP        | PTL        | https://www.onap.org||
-| hugo-theme-cleanwhite | Creator    | https://themes.gohugo.io/themes/hugo-theme-cleanwhite  | https://github.com/zhaohuabing/hugo-theme-cleanwhite |
