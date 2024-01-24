@@ -1,4 +1,4 @@
-baseurl = "https://zhuchangyan.github.io/"
+baseurl = "https://zhuchangyan.github.io/Blog/"
 title = "Huabing Blog"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
