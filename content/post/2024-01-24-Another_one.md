@@ -4,12 +4,12 @@ title:      "Hugo 初体验"
 subtitle:   "泪流满面"
 excerpt: " "
 description: "有很多地方都不太会。"
-date:     2024-01-08
+date:     2024-01-23
 author:  陈诗曰
 image: "/img/contact-bg.jpg"
 published: true 
 tags:
-    - Non-Hermitian
+    - Hugo
 
 categories: [ Tech ]
 URL: "/2024/01/24/Another_one.md/"
