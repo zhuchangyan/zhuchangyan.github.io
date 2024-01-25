@@ -21,7 +21,7 @@ A random spectrometer as shown in Fig. 1 is made of random air holes on top of a
 ![SEM image of random spectrometers](/post_img/2023--11-09-RMT-theory/SEM_spectromet.png)
 **Figure 1:** SEM image of frabricated random spectrometers. Figure adapted from Ref. [1].
 
-Luckily, in mathematics we have Random matrix theory (RMT) which are used to desribe statistics of eigenfrequencies and associated eigenfunctions. Since in spectrometers the most important properties we care about is the resolution which basically can be represented as 
+Luckily, in mathematics we have Random matrix theory (RMT) which are used to desribe statistics of eigenfrequencies and associated eigenfunctions. Since in spectrometers the most important properties we care about is the resolution which basically can be represented as the correlation function.
 
 
 ### 1.1 General description
@@ -174,12 +174,6 @@ def generate_transmission_matrix(params, NFC, energy_span, trans_matrix_location
             
     return trans.T
 ```
-
-
-
-
-
-
 
 
 ## 4. Differentiate Transmission matrix
