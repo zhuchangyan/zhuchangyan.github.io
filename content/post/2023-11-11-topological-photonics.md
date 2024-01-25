@@ -10,11 +10,9 @@ image: "/img/contact-bg.jpg"
 published: true 
 tags:
     - Physics
-
 categories: [ Physics ]
-URL: "/3/topological-photonics/"
----
 
+---
 
 ## Introduction
 
