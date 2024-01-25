@@ -6,7 +6,7 @@ excerpt: " "
 description: "人类如何可能有先天的判断？"
 date:    2023-08-22
 author: 陈诗曰
-image: "/img/contact-bg.jpg"
+image: "/post_img/2023-08-22-chuncuilixing/kant2.jpeg"
 published: true 
 tags:
     - 康德
@@ -19,6 +19,9 @@ categories: [ 哲学 ]
 康德认为，两者都有其片面性。人类的认识开始于经验，而知识来源于理性。人类的认识活动就是用先天的认识能力对感官提供的后天经验进行调整。
 
 而本书的主题就是： 人类如何可能有先天的判断？
+
+![康德](/post_img/2023-08-22-chuncuilixing/kant.png)
+**康德画像**
 
 “时间”和“空间“两种直观形式，是经验形成的前提条件。人们运用先天的思维形式（即时间与空间）对认识活动中混乱零散的感觉材料进行整理加工，获得感性认识。
 

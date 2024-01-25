@@ -1,7 +1,7 @@
 ---
 showonlyimage: true
 title:     "Github+Hugo 配置个人博客网站"
-subtitle:   "完整方法记录"
+subtitle:   ""
 excerpt: " "
 description: "积累一些踩坑经验..."
 date:    2024-01-24
@@ -20,11 +20,11 @@ URL: "/2024/01/24/Github-Hugo/"
 **平台:** MacOS \
 **hugo version:**  v0.121.2
 
-### 1. 首先在github上新建一个github仓库Blog
+### 1. 新建一个github仓库
 
-直接在github中new repository即可，名字就叫Blog吧～
+直接在github中new repository即可，但是注意名字还不能随便取，如果叫Blog的话，那么发布在github上的网页初试页面就会变成 \"https://zhuchangyan.github.io/Blog/"，然而在点击主页后就会变成 \"https://zhuchangyan.github.io/"，使得页面不存在。
 
->后面发现名字还不能随便取，如果叫Blog的话，那么发布在github上的网页初试页面就会变成 \"https://zhuchangyan.github.io/Blog/"，然而在点击主页后就会变成 \"https://zhuchangyan.github.io/"，使得页面不存在。
+所以，最后我们的仓库名应该叫做your_user_name.github.io
 
 ### 2. 在本地clone新建的仓库
 
