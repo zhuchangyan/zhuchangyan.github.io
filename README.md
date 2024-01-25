@@ -9,7 +9,7 @@ Codes for my personal blog website.
 
 仓库名叫做your_user_name.github.io
 
-1. 在本地clone新建的仓库
+2. 在本地clone新建的仓库
 
 在本地新建一个文件夹，然后运行：
 ```bash
