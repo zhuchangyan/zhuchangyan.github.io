@@ -13,7 +13,7 @@ hasCJKLanguage = true
 home = ["HTML", "RSS", "Algolia"]
 
 [params]
-  header_image = "img/home-bg-jeep.jpg"
+  header_image = "img/background/Mars.png"
   SEOTitle = "陈诗曰的博客 | Howard Blog"
   description = "陈诗曰，物理学家, 开源爱好者，羽毛球博士 | 这里是 陈诗曰 的博客，与你一起发现更大的世界。"
   keyword = "陈诗曰, Howard, howard, , 陈诗曰的网络日志, 陈诗曰的博客, Howard Blog, 博客, 个人网站, Machine learning"
@@ -24,9 +24,9 @@ home = ["HTML", "RSS", "Algolia"]
   omit_categories = false
 
   # leancloud storage for page view counter
-  page_view_conter = false 
-  leancloud_app_id = ""
-  leancloud_app_key = ""
+  page_view_conter = true
+  leancloud_app_id = "yzbpXQpXf1rWVRfAAM8Durgh-gzGzoHs"
+  leancloud_app_key = "020bjTvbiVinVQ21YtWAJ9t8"
 
   # algolia site search
   algolia_search = true
@@ -72,11 +72,11 @@ home = ["HTML", "RSS", "Algolia"]
   #facebook      = "full profile url in facebook"
   #googleplus    = "full profile url in googleplus"
   #twitter       = "full profile url in twitter"
-  linkedin       = "https://www.linkedin.com/in/yourlinkedinid"
-  stackoverflow  = "https://stackoverflow.com/users/yourstackoverflowid"
+  #linkedin       = "https://www.linkedin.com/in/yourlinkedinid"
+  #stackoverflow  = "https://stackoverflow.com/users/yourstackoverflowid"
   #instagram     = "full profile url in instagram"
-  github         = "https://github.com/yourgithub"
-  wechat         = "your wechat qr code image"
+  github         = "https://github.com/zhuchangyan"
+  #wechat         = "img/wechat_qrcode.jpg"
   #medium        = "full profile url in medium"
   #slack         = "full workspace url in slack"
   #pinterest     = "full profile url in pinterest"
