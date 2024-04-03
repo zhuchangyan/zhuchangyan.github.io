@@ -3,7 +3,7 @@ showonlyimage: true
 title:     "Phd oral defense"
 subtitle:   "Application of machine learning methods in photonics and non-Hermitian physics"
 excerpt: " "
-description: "Here is the draft version of my oral defense."
+description: "Draft version of my oral defense."
 date:    2024-01-26
 author: 陈诗曰
 # image: "/img/einstein.png"
