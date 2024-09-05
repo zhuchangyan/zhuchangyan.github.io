@@ -35,6 +35,11 @@ $ git remote set-url origin https://you-personal-token@github.com/zhuchangyan/zh
 ```
 就相当于把token保存到了本地，这样之后可以直接运行git pull&push而不用输入密码了。
 
+另外，可以用下面的命令查看当前push&push的仓库在哪里。
+```bash
+$ git remote -v
+```
+
 # 2. 配置latex
 
 终于搞定了latex支持。   
