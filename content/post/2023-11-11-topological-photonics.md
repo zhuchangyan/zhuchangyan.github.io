@@ -65,7 +65,8 @@ Ref: https://www.nature.com.remotexs.ntu.edu.sg/articles/nphoton.2014.248
 
 ### gyromagnetic photonic crystal
 
-Liu guigeng的主要工作也是在这个赛道上继续探索。
+Yidong的最初nature的工作就是在这个体系上做的，最近几年guigeng也在这个领域做了不少的工作。
+
 
 ### coupled resonators
 

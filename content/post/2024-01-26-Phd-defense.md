@@ -23,15 +23,12 @@ math: true
 - [7. List of publications](#7-list-of-publications)
 - [8. Interesting things](#8-interesting-things)
 
-
-
 **Date:** 2:30 pm, Feb 8 2024.
 
 **Thesis Committe:**
 * [Wang xiao, renshaw 王骁](http://www.renshawlab.com/team.html)
 * [Pica ciamarra, Massimo](https://sites.google.com/site/ciamarragroup/home)
 * [Yang bo 杨波](https://sites.google.com/view/yang-bo/home)
-
 
 # 1. introduction
 
